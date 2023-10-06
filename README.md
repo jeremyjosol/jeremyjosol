@@ -4,10 +4,10 @@
 
 <span align="left">
   
-- 🌱 Strong background in agrocultural cultivation and irrigation technology control systems.
-- 👀 Interested in creating better design solutions to enhance user interface experiences and writing clean modular code.
-- 💦 Currently learning about irrigation software and functional programming languages such as C# and frameworks like React.
-- 🌐 Open to collaborate on creative projects - whether with cultivators, creative artists, directors, music talent, or personal.
+- 🌱 I have a strong background in agrocultural cultivation and irrigation technology control systems.
+- 👀 I'm interested in creating better design solutions, enhancing user interface experiences, and writing clean modular code.
+- 💦 Currently learning about irrigation software functionality and programming languages such as C# and frameworks like React.
+- 🌐 Open to work or collaborate on creative projects - cultivators, artists, creative directors, music talent, let's build. 🛠️ 
 </span>
 
 📫 [LinkedIn](https://www.linkedin.com/in/jeremyjosol/)
