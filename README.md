@@ -23,6 +23,8 @@
 - Web design 
 </span>
 
+#
+
 _Let's build_. 🛠️ 
 
 📫 [LinkedIn](https://www.linkedin.com/in/jeremyjosol/)
