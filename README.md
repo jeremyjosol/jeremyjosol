@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi, I'm Jeremy Josol.
+## Hello World, I'm Jeremy Josol.
 
 <span align="left">
   
