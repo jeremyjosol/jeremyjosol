@@ -8,10 +8,10 @@
 - Agrocultural cultivation management
 - Irrigation technology control systems
 ## 👀 Interests
-- Visual design 
+- Color theory
+- Clean modular code
 - Creating better design solutions
 - Enhancing user interface experiences
-- Writing tested, clean, and modular code
 ## 💦 Learning
 - Languages such as C#
 - Frameworks like React
