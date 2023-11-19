@@ -5,22 +5,25 @@
 <span align="left">
   
 ## 🌱 Background 
-- Agrocultural cultivation management
+- Art Curation
+- Creative Direction
+- Direction of Agrocultural cultivation
 - Irrigation technology control systems
 ## 👀 Interests
 - Color theory
-- Clean modular code
+- Clean modularized code
 - Creating better design solutions
-- Enhancing user interface experiences
-## 💦 Learning
-- Languages such as C#
-- Frameworks like React
-- Irrigation software functionality
-## 🌐 Open to work || Collaborate
+- Enhancing UI experiences
+- Ethos of 'less is more'
+## 📖 Learning
+- Unity Engine
+- Redux with React
+- Irrigation physics
+## 🌐 Open to Work
 - Fullstack applications
 - Creative projects 
 - Cultivation SEO
-- Web design 
+- Clean web design 
 </span>
 
 #
